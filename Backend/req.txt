@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-RESTx
+Flask-JWT-Extended
+Flask-CORS
+Flask-Mail
+python-dotenv
+APScheduler
+geopy 
+Werkzeug 
